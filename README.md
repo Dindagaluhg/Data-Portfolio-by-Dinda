@@ -1,6 +1,6 @@
 # Dinda's Data Portfolio
 
-This repository showcases the portfolio of Dinda, a Data Enthusiast skilled in data visualization and analysis. Eager to tackle new challenges and equipped with a positive work attitude, Dinda is on the lookout for opportunities in the data analyst domain. She believes that her dedication, coupled with her skills, can be an asset to any organization.
+This repository showcases the portfolio of Dinda, a Data Enthusiast skilled in data visualization and analysis. Eager to tackle new challenges and She believes that her dedication, coupled with her skills, can be an asset to any future company.
 
 ## Table of Contents:
 
