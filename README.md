@@ -4,10 +4,11 @@ This repository showcases the portfolio of Dinda, a Data Enthusiast skilled in d
 
 ## Table of Contents:
 
-### Data Visualization:
+### Data Visualization using Tableau / Looker Studio:
 - [Analisis Indeks Pembangunan Manusia di Indonesia](https://public.tableau.com/app/profile/dindagaluh/viz/InfographicsDSW/Dashboard1)
 - [Analisis layanan kesehatan di Jawa Barat](https://public.tableau.com/app/profile/dindagaluh/viz/LayananKesehatandiJawaBarat/LayananKesehatandiJawaBarat)
 - [Search Console Dashboard](https://lookerstudio.google.com/reporting/64516614-79b6-4a8f-be45-c655a2d7adfd/page/AwKQD)
+- [Sales Dashboard](https://lookerstudio.google.com/s/qxnB7pAvT8s)
 
 ### Python:
 - [Predict Clicked Ads Customer Classification](https://github.com/Dindagaluhg/Ad-Click-Prediction-with-Machine-Learning)
